@@ -4,13 +4,13 @@ A little retro TV casino that sits on your desktop. Fictional coins only: no rea
 
 ## 1. Download
 
-- [CH03-DEMO-0.9.1-mac.dmg](https://github.com/ibarrett50cal/ch03-demo/releases/download/v0.9.1/CH03-DEMO-0.9.1-mac.dmg) (about 230 MB)
+- [CH03-DEMO-0.9.2-mac.dmg](https://github.com/ibarrett50cal/ch03-demo/releases/download/v0.9.2/CH03-DEMO-0.9.2-mac.dmg) (about 230 MB)
 
 One app for Apple Silicon (M1 and later) and Intel Macs.
 
 ## 2. Install
 
-1. Double-click **CH03-DEMO-0.9.1-mac.dmg** in your Downloads.
+1. Double-click **CH03-DEMO-0.9.2-mac.dmg** in your Downloads.
 2. A window opens. Drag **CH03 DEMO** onto the **Applications** folder in it.
 3. Open your **Applications** folder and double-click **CH03 DEMO**.
 
@@ -45,9 +45,12 @@ xattr -dr com.apple.quarantine "/Applications/CH03 DEMO.app"
 ## 4. Playing
 
 - Click the screen to start. Drag the handle on top to move the TV; drag its top-left corner to resize it.
-- There's no Dock icon: the little TV in the **menu bar** (top right of the screen) has Show / Hide and Quit, and
-  **Cmd+Q** quits.
+- The little TV in the **menu bar** (top right of the screen) has Show / Hide and Quit, and **Cmd+Q** quits.
 - The book on the stack is the instruction manual.
+
+**Keep it in your Dock:** click the little TV in the menu bar → **Show in Dock**. CH03 DEMO's icon appears in the Dock.
+Then **right-click** that icon → **Options** → **Keep in Dock**, and it stays there, ready to click, even when the game
+is closed. (Show in Dock again takes the icon away while it's running.)
 
 **Your progress comes with you:** when you get the full game on the same Mac, it offers to carry your demo save over.
 
